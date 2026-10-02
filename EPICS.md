@@ -1,7 +1,7 @@
 Epic 1- Interview Scheduling: 
 There will be a system of scheduling interviews for students and employers. 
 
-Epic 2- Job Management: 
+Epic 2- Job Management: covers the creation and management of employment opportunities within the system. Employers will be able to create job postings, specify job requirements and required skills, and update existing postings. It does not include determining which students are matches for those positions.
 
 Epic 3- Student Profiles:
 This is a part of the system that will culminate everything related to the student whether it is projects, skills, experience, certifications. The student resume will be attached to this. 
