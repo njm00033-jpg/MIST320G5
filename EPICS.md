@@ -10,7 +10,7 @@ Epic 4- Placement Analytics:
 This will be a system of tracking students grades and match them with 
 
 Epic 5- Skill-Gap: 
-This is where students will be able to list thier skills, and can update them ove time. This may include certifications.
+This is where students will be able to list thier skills, and can update them over time. This may include certifications.
 
 Epic 6- Talent Matching: 
 This is a system that matches students with employers. We will make a system that takes account all of the attributes of the studet profile such as students skills, analytics, etc. and matches them with employer requirements.
