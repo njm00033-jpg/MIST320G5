@@ -7,7 +7,7 @@ Epic 3- Student Profiles:
 This is a part of the system that will culminate everything related to the student whether it is projects, skills, experience, certifications. The student resume will be attached to this. 
 
 Epic 4- Placement Analytics: 
-This will be a system of tracking students grades and match them with 
+This will be a system of tracking job listings analytics for administrative purposes 
 
 Epic 5- Skill-Gap: 
 This is where students will be able to list thier skills, and can update them over time. This may include certifications.
