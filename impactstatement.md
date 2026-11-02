@@ -79,3 +79,11 @@ The requested features could be considered for a future development phase after 
 The proposed changes could improve the recruitment process, but implementing them during the current project would create additional risks.
 
 Our team recommends completing the original HEW Talent Matching system first and reviewing the requested changes as a future project expansion.
+
+## CCB Decision
+
+Decision: Defer
+
+The Change Control Board decided to defer the proposed WebRTC video interviewing, automatic recording, and AI sentiment analysis features until after the original project is completed.
+
+The team will continue working on the existing Sprint 2 backlog without adding the new features. These changes may be considered in a future development phase.
